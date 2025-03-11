@@ -397,6 +397,13 @@ a{
     right: 62px;
     z-index: 3;
 }
+.about2__img-1-edit{
+    position: absolute;
+    top: 76px;
+    right: 0;
+    z-index: 3;
+    transform: translatex(40%);
+}
 .about__img-2{
     position: absolute;
     right: -100px;
